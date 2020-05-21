@@ -7,7 +7,7 @@ A integração da lista com o buscador se dá a partir da necessidade de se dese
 
 <hr>
 <p align="center">
-  <img width="900px" src="" />
+  <img width="900px" src="https://github.com/ChristopherHauschild/todoList-buscaCep-redux-react/blob/master/TODO-CEP.gif?raw=true" />
  </p>
 
 ## Linguagens e tecnologias utilizadas: :computer:
@@ -22,7 +22,7 @@ A integração da lista com o buscador se dá a partir da necessidade de se dese
 
 ## Instalação: :rocket:
 
-- Clone este repositório: `https://github.com/ChristopherHauschild/GitHubApp-React.js/.git`;
+- Clone este repositório: `https://github.com/ChristopherHauschild/todoList-BuscaCep-redux-react.js/.git`;
 - Remova o diretório `.git`;
 - Instale as dependências: `npm i` ou `yarn`;
 - Rode `npm start` ou `yarn start` para desenvolvimento em `http://localhost:3000`
