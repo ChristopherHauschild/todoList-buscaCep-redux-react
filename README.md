@@ -3,7 +3,7 @@
 Aplicação desenvolvida no terceiro módulo do curso React.js Ninja - React Completo, disponibilizado por <a href="https://github.com/fdaciuk">Fernando Daciuk</a> na platafaforma Udemy. O curso visa a capacitação para atuar no mercado de trabalho com React.js, oferecendo conteúdos que visam trabalhar os fundamentos dessa biblioteca JS além do desenvolvimento de aplicações estruturadas com a mesma.
 
 Esta aplicação consiste numa lista que permite ao usuário adicionar afazeres e riscar da mesma aqueles já realizados, além de um buscador de CEP que permite que o usuário encontre um endereço a partir do CEP.
-A integração da lista com o buscador se dá a partir da necessidade de se desenvolver uma aplicação maior e que conte com mais de um reducer utilizando a biblioteca Redux, de modo que se coloque em cheque também as requisições async await em um reducer.
+A integração da lista com o buscador se dá a partir da necessidade de se desenvolver uma aplicação maior que conte com mais de um reducer utilizando a biblioteca Redux, de modo que se coloque em cheque também as requisições async await em um reducer.
 
 <hr>
 <p align="center">
